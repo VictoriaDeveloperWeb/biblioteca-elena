@@ -1,0 +1,15 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Archivos de prueba sueltos (ej. patata.txt)
+*.tmp
+
+# NOTA: los audios .m4a SÍ se versionan en este repo (no se ignoran),
+# porque son el contenido principal de la app.
