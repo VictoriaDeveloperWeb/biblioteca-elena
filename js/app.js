@@ -180,7 +180,7 @@ const VA1_AUDIO_FILES = {
   c6:  'cap06.m4a',  // Vampire Academy cap 6
   c7:  'cap07.m4a',  // Vampire Academy capítulo 7
   c8:  'cap08.m4a',  // Vampire Academy Cap 8
-  // c9 — no encontrado en tu carpeta, pendiente
+  c9:  'cap09.m4a',
   c10: 'cap10.m4a',  // Capitulo 10 vampire academy
   c11: 'cap11.m4a',  // Vampire academy cap 11
   c12: 'cap12.m4a',  // Vampire Academy cap 12
@@ -190,7 +190,7 @@ const VA1_AUDIO_FILES = {
   c16: 'cap16.m4a',  // Vampire Academy Cap 16
   c17: 'cap17.m4a',  // Vampire Academy Cap 17
   c18: 'cap18.m4a',  // Cap 18 Vampire Academy
-  // c19 — no encontrado en tu carpeta, pendiente
+  c19: 'cap19.m4a',  // Cap 19 Vampire Academy
   c20: 'cap20.m4a',  // Cap 20 Vampire Academy
   c21: 'cap21.m4a',  // Cap 21 Vampire Academy
   c22: 'cap22.m4a',  // Cap 22 Vampire Academy
